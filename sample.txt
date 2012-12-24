@@ -1,3 +1,4 @@
 サルでもわかGitコマンド
 リモートリポジトリでクローン
 tutorial1からのcommit
+tutorial2からのcommit
